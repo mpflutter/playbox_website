@@ -12,7 +12,7 @@ PlayBox 是一个轻量的小程序运行时，基于 PlayBox 你可以使用 [M
 
 ## PlayBox Go
 
-PlayBox Go 是一款 iOS / Android 应用，基于 Go 你可以快速开始开发流程，在 Go 中调试、预览、上传并使用小程序。
+PlayBox Go 是一款移动应用，基于 Go 你可以快速开始开发流程，在 Go 中调试、预览、上传并使用小程序。
 
 当完成小程序开发后，可以一键上传至 PlayBox Go 用于日常使用，或分享给好友。
 
