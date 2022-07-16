@@ -96,6 +96,9 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ["dart"],
       },
+      gtag: {
+        trackingID: "G-K88LGEJD46",
+      },
     }),
 };
 
