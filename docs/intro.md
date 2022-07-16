@@ -29,5 +29,5 @@ PlayBox SDK 是一系列原生扩展，借助 PlayBox SDK 你可以在小程序�
 
 ## 开始体验
 
-是否已经迫不及待想要体验一下？
+是否已经迫不及待想要[体验一下](./tutorial/env-setup)？
 

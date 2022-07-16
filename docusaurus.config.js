@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "PlayBox",
-  tagline: "使用 MPFlutter 创造小玩意",
+  tagline: "使用 MPFlutter 创造你的小玩意",
   url: "https://playbox.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -94,6 +94,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ["dart"],
       },
     }),
 };
