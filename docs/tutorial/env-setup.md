@@ -31,7 +31,7 @@ PlayBox Go 是一款移动应用，我们可以使用该应用，实时预览正
 
 **Android** 用户可以通过扫描（不建议使用微信扫描）以下二维码直接下载 apk 进行安装：
 
-// Coming soon...
+![max-width-200](./download-apk.png)
 
 ## 下一步
 
