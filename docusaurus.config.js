@@ -49,6 +49,9 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        gtag: {
+          trackingID: "G-K88LGEJD46",
+        },
       }),
     ],
   ],
@@ -95,9 +98,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
         additionalLanguages: ["dart"],
-      },
-      gtag: {
-        trackingID: "G-K88LGEJD46",
       },
     }),
 };
